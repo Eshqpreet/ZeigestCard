@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Viga&display=swap');
+
+.Wording{
+  font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+.Heading{
+  font-family: 'Jost', sans-serif;
+}
+
+.buttons{
+  font-family: 'Viga', sans-serif;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
